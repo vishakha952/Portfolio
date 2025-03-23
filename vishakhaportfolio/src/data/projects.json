@@ -1,0 +1,45 @@
+[
+    {
+      "title": "Food-Delivery-Website",
+      "imageSrc": "projects/download.jpeg",
+      "description": "Food Delivery Website,is static,made by using html,css,javascript",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://rawcdn.githack.com/vishakha952/food_delivery_website/refs/heads/main/public/aboutus.html",
+      "source": "https://github.com/vishakha952/food_delivery_website/tree/main/public"
+    },
+    {
+      "title": "Color Switch",
+      "imageSrc": "projects/color-switch.png",
+      "description": "Body changes color when buttons are clicked ,made using basic javascript.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://rawcdn.githack.com/hetalkumawat/colorswitch/b77ab848b6a9bbf16359f0c807ea0b44b49fdf6a/colorswitch.html",
+      "source": "https://github.com/hetalkumawat/colorswitch"
+    },
+    {
+      "title": "UnlimitedColors using async",
+      "imageSrc": "projects/new.jpg",
+      "description": "Uses setInterval(), clearInterval(),generates random bg-colors until the STOP button is clicked.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://rawcdn.githack.com/hetalkumawat/async-project/7e667d3ba6feb1affb63dc67227c1168c3f83172/unlimitedcolors.html",
+      "source": "https://github.com/hetalkumawat/async-project"
+    },
+    {
+      "title": "Password Generator",
+      "imageSrc": "projects/project.png",
+      "description": "Generates random strong passwords.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://6656dc51df1b1666d465edb6--thriving-sunshine-a39355.netlify.app/",
+      "source": "https://github.com/hetalkumawat/password-Generator"
+      
+    },
+    {
+      "title": "Currency Convertor",
+      "imageSrc": "projects/project.png",
+      "description": "Choose and convert any two currencies .",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://6656e189601e8b6e9516af74--superb-mousse-857f25.netlify.app/",
+      "source": "https://github.com/hetalkumawat"
+      
+    }
+    
+  ]
