@@ -68,20 +68,41 @@ export const Experience = () => {
                           <li>
                             <a
                               className={styles.mylinks}
-                              href="https://pdflink.to/1833629a/"
+                              href="https://pdflink.to/95b2387b/"
                               target="blank"
                             >
-                              Python By Example
+                              Introduction to Artificial Intelligence from Great Learning
                             </a>
                           </li><br></br>
-                        
+
                           <li>
                             <a
                               className={styles.mylinks}
-                              href="https://pdflink.to/e2c73d29/"
+                              href="https://pdflink.to/8e5f4ec2/"
                               target="blank"
                             >
-                              Programming Concepts in Python
+                              Python Programming by Regex Software
+                            </a>
+                          </li><br></br>
+
+                          <li>
+                            <a
+                              className={styles.mylinks}
+                              href="https://pdflink.to/6255db27/"
+                              target="blank"
+                            >
+                              Certificate of Completion of Full Stack Food Delivery Project
+                            </a>
+                          </li><br></br>
+                        
+                    
+                          <li>
+                            <a
+                              className={styles.mylinks}
+                              href="https://pdflink.to/c805e828/"
+                              target="blank"
+                            >
+                              Career Essentials in Generative AI by Microsoft and LinkedIn
                             </a>
                           </li>
                         
