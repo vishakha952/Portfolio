@@ -16,7 +16,7 @@ const Hero = () => {
     <div>
       <section className={styles.container}>
         <div className={styles.content}>
-          <h1 className={styles.title}>Hi,I'm Vishakha Rawat .</h1>
+          <h1 className={styles.title}>Hi,I'm Vishakha Rawat.</h1>
           <p className={styles.description}>
           
             I'm a fresh face in web development, specializing in React and
