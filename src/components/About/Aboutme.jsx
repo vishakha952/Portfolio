@@ -30,7 +30,8 @@ const Aboutme = () => {
               <h3>Full Stack  Developer</h3>
               
               <p>
-               
+              I am a frontend developer with experience in building responsive
+              and optimized sites using MERN stack.
               </p>
             </div></li>
       
@@ -41,7 +42,7 @@ const Aboutme = () => {
 
               <h3>Python Programmer</h3>
               <p>
-                
+              i have apt python programming skills.
               </p>
             </div>
           </li>
@@ -50,9 +51,9 @@ const Aboutme = () => {
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
 
-              <h3></h3>
+              <h3>Learning ML in Python</h3>
               <p>
-              
+              Currently learning Machine Learning in Python, exploring algorithms, data analysis, and model building.
               </p>
             </div>
           </li>
