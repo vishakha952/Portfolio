@@ -5,7 +5,7 @@
       "description": "Food Delivery Website,is static,made by using html,css,javascript",
       "skills": ["React", "Express", "Node"],
       "demo": "https://rawcdn.githack.com/vishakha952/food_delivery_website/refs/heads/main/public/aboutus.html",
-      "source": "https://github.com/vishakha952/food_delivery_website/tree/main/public"
+      "source": ""
     },
     {
       "title": "Task Manager App",
@@ -13,7 +13,7 @@
       "description": "Task manager application using react",
       "skills": ["React", "Express", "Node", "MongoDb"],
       "demo": "https://mern-task-manager-app-ui-tau.vercel.app/",
-      "source": "https://github.com/vishakha952/Mern-Task-Manager-App"
+      "source": ""
     },
     {
       "title": "React-Calculator",
@@ -21,7 +21,7 @@
       "description": "A basic React calculator application with Tailwind CSS for styling.",
       "skills": ["React", "Express", "Node","Tailwind.css"],
       "demo": "https://vishakhacalc.netlify.app/",
-      "source": "https://github.com/vishakha952/react_basic_calculator/tree/main"
+      "source": ""
     },
     {
       "title": "Weather Update Webapp",
@@ -29,7 +29,7 @@
       "description": "weather-update-webapp is made for current weather update using html,css,javascript",
       "skills": ["HTML5","CSS","javascript"],
       "demo": "https://weather-8d3b74.netlify.app/",
-      "source": "https://github.com/vishakha952/weather-update-webapp"
+      "source": ""
       
     },
     {
@@ -38,7 +38,7 @@
       "description": "Dynamic quiz generator is made using Reactjs",
       "skills": ["React", "Express", "Node"],
       "demo": "https://dynamicquizgenerator.netlify.app/",
-      "source": "https://github.com/vishakha952/DynamicQuizGenerator"
+      "source": ""
       
     }
     
