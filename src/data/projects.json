@@ -8,12 +8,12 @@
       "source": "https://github.com/vishakha952/food_delivery_website/tree/main/public"
     },
     {
-      "title": "",
-      "imageSrc": "",
-      "description": "",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "",
-      "source": ""
+      "title": "Task Manager App",
+      "imageSrc": "projects/task.png",
+      "description": "Task manager application using react",
+      "skills": ["React", "Express", "Node", "MongoDb"],
+      "demo": "https://mern-task-manager-app-ui-tau.vercel.app/",
+      "source": "https://github.com/vishakha952/Mern-Task-Manager-App"
     },
     {
       "title": "",
