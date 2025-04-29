@@ -24,12 +24,12 @@
       "source": "https://github.com/vishakha952/react_basic_calculator/tree/main"
     },
     {
-      "title": "",
-      "imageSrc": "",
-      "description": "",
-      "skills": ["React", "Express", "Node"],
-      "demo": "",
-      "source": ""
+      "title": "Weather Update Webapp",
+      "imageSrc": "projects/weather.png",
+      "description": "weather-update-webapp is made for current weather update using html,css,javascript",
+      "skills": ["HTML5","CSS","javascript"],
+      "demo": "https://weather-8d3b74.netlify.app/",
+      "source": "https://github.com/vishakha952/weather-update-webapp"
       
     },
     {
