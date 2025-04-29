@@ -33,7 +33,7 @@
       
     },
     {
-      "title": "DynamicQuizGenerator",
+      "title": "Dynamic Quiz Generator",
       "imageSrc": "projects/QUIZ.png",
       "description": "Dynamic quiz generator is made using Reactjs",
       "skills": ["React", "Express", "Node"],
