@@ -37,8 +37,8 @@
       "imageSrc": "projects/QUIZ.png",
       "description": "Dynamic quiz generator is made using Reactjs",
       "skills": ["React", "Express", "Node"],
-      "demo": "https://dynamicquizgenerator.netlify.app/",
-      "source": "https://github.com/vishakha952/DynamicQuizGenerator"
+      "demo": "https://dynamicquizgenerator.netlify.app/"
+      
       
     }
     
