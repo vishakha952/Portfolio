@@ -18,7 +18,7 @@
     {
       "title": "React-Calculator",
       "imageSrc": "projects/calc.png",
-      "description": "",
+      "description": "A basic React calculator application with Tailwind CSS for styling.",
       "skills": ["React", "Express", "Node","Tailwind.css"],
       "demo": "https://vishakhacalc.netlify.app/",
       "source": "https://github.com/vishakha952/react_basic_calculator/tree/main"
