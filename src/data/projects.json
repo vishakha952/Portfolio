@@ -16,12 +16,12 @@
       "source": "https://github.com/vishakha952/Mern-Task-Manager-App"
     },
     {
-      "title": "",
-      "imageSrc": "",
+      "title": "React-Calculator",
+      "imageSrc": "projects/calc.png",
       "description": "",
-      "skills": ["React", "Express", "Node"],
-      "demo": "",
-      "source": ""
+      "skills": ["React", "Express", "Node","Tailwind.css"],
+      "demo": "https://vishakhacalc.netlify.app/",
+      "source": "https://github.com/vishakha952/react_basic_calculator/tree/main"
     },
     {
       "title": "",
