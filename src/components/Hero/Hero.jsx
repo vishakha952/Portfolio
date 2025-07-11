@@ -9,7 +9,7 @@ const Hero = () => {
   // Function to handle CV download
   const handleDownloadCV = () => {
     // Replace 'cv.pdf' with the path to your actual CV file
-    const downloadUrl = getImageUrl("hero/Vishakha_Resume.pdf");
+    const downloadUrl = getImageUrl("hero/new_resume.pdf");
     window.open(downloadUrl, "_blank");
   };
   return (
